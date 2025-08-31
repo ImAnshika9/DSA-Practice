@@ -4,3 +4,5 @@ Solutions to Data Structures and Algorithms problems in C++
 - [Merge_Intervals](https://leetcode.com/problems/merge-intervals/) -> [Solution](./Merge_Intervals.cpp)
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) -> [Solution](./Merge_Sorted_Array.cpp)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) -> [Solution](./Valid_Sudoku.cpp)
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) -> [Solution](./Diameter_of_BT.cpp)
+
