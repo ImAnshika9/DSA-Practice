@@ -5,4 +5,4 @@ Solutions to Data Structures and Algorithms problems in C++
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) -> [Solution](./Merge_Sorted_Array.cpp)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) -> [Solution](./Valid_Sudoku.cpp)
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) -> [Solution](./Diameter_of_BT.cpp)
-
+- [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) -> [Solution](./Max_Avg_ratio.cpp)
