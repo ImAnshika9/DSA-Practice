@@ -6,6 +6,6 @@ Solutions to Data Structures and Algorithms problems in C++
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) -> [Solution](./Valid_Sudoku.cpp)
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) -> [Solution](./Diameter_of_BT.cpp)
 - [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) -> [Solution](./max_Avg_pass_ratio.cpp)
-- [ Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) -> [Solution](./REPLACE_people.cpp)
+- [ Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) -> [Solution](./REPLACE_People.cpp)
 
 
