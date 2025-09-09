@@ -8,6 +8,8 @@ Solutions to Data Structures and Algorithms problems in C++
 - [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) -> [Solution](./max_Avg_pass_ratio.cpp)
 - [ Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) -> [Solution](./REPLACE_People.cpp)
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) → [Solution](./BinaryTree_MaxPathSum.cpp)
+- [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) → [Solution](./1768-MergeStringsAlternately.cpp)
+
 
 
 
