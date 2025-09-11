@@ -9,6 +9,7 @@ Solutions to Data Structures and Algorithms problems in C++
 - [ Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) -> [Solution](./REPLACE_People.cpp)
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) → [Solution](./BinaryTree_MaxPathSum.cpp)
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) → [Solution](./Merge-Strings-Alternately.cpp)
+- [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) → [Solution](./SortVowelsInString.cpp)
 
 
 
