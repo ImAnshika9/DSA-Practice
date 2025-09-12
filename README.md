@@ -11,6 +11,8 @@ Solutions to Data Structures and Algorithms problems in C++
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) → [Solution](./Merge-Strings-Alternately.cpp)
 - [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) → [Solution](./SortVowelsInString.cpp)
 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) → [Solution](./KidsWithCandies.cpp)
+- [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) → [Solution](./VowelsGame.cpp)
+
 
 
 
